@@ -4,3 +4,17 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+/* BODY STYLE */
+body {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 700px;
+    height: 800px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+/* PERSONAL INFORMATION */
