@@ -28,16 +28,33 @@ hr {
 }
 
 .personal-information {
-
+    margin-top: 17px;
+    margin-left: 74px;
 }
 
 .full-name {
-    margin-left: 74px;
-    margin-top: 17px;
+    padding-bottom: 5px;
+
 }
 
 .position {
-    margin-left: 74px;
-    margin-top: 17px;
+    padding-bottom: 5px;
     color: green;
+}
+
+
+.address {
+    
+}
+
+.city {
+
+}
+
+.phone-number {
+
+}
+
+.email {
+
 }
