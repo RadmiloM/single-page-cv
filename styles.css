@@ -77,3 +77,35 @@ hr {
     color: green;
     padding-bottom: 5px;
 }
+
+/* EDUCATION */
+
+.education {
+    margin-top: 17px;
+    margin-left: 74px;
+}
+
+.education-title {
+    padding-bottom: 5px;
+    color: green;
+}
+
+.school {
+
+}
+
+.year {
+    padding-bottom: 2px;
+}
+
+.spell-title {
+    padding-bottom: 2px;
+}
+
+.spells {
+
+}
+
+.spell {
+
+}
