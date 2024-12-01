@@ -18,3 +18,10 @@ body {
 }
 
 /* PERSONAL INFORMATION */
+
+hr {
+    margin-top: 50px;
+    border-top: 2px solid black;
+    width: 470px;
+    margin-left: 72px;
+}
