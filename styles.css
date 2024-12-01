@@ -1,4 +1,5 @@
 /* BASE STYLE */
+
 * {
     padding: 0px;
     margin: 0px;
@@ -6,6 +7,7 @@
 }
 
 /* BODY STYLE */
+
 body {
     border-top: 2px solid black;
     border-right: 2px solid black;
@@ -63,9 +65,15 @@ hr {
 /* SKILLS */
 
 .skills {
-
+    margin-top: 17px;
+    margin-left: 74px;
 }
 
 .skill {
     
+}
+
+.skill-title {
+    color: green;
+    padding-bottom: 5px;
 }
