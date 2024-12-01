@@ -101,7 +101,7 @@ hr {
 }
 
 .spell-title {
-    padding-bottom: 2px;
+    padding-bottom: 6px;
     color: darkgoldenrod;
 }
 
@@ -111,4 +111,52 @@ hr {
 
 .spell {
 
+}
+
+/* EXPERIENCE */
+
+.experience {
+    margin-top: 17px;
+    margin-left: 74px;
+}
+
+.gryffindors-title {
+    color: green;
+    padding-bottom: 5px;
+}
+
+.company {
+    color: dodgerblue;
+    font-size: 17px;
+    padding-bottom: 3px;
+}
+
+.period {
+    padding-bottom: 6px;
+}
+
+.achievement-title {
+    padding-bottom: 2px;
+    color: darkgoldenrod;
+}
+
+.achievements {
+
+}
+
+.achievement {
+
+}
+
+/* ACROSS THE INTERNET */
+.internet {
+    margin-top: 17px;
+    margin-left: 74px;
+}
+
+.internet-title {
+    color: green;
+}
+a {
+    display: block;
 }
